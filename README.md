@@ -10,8 +10,6 @@ Projekt slouží pro **vzdělávací, prezentační a kreativní účely**.
 
 ## ✨ Funkce (aktuální / plánované)
 
-- ✍️ Vlastní úprava textu
-- 🤖 AI generovaný text s chybami v češtině
 - 🧠 Simulace typických studentských chyb
 - 🖼️ Vytváření stylizovaných „screenshotů“
 - ⚙️ Možnost budoucího rozšíření o vlastní moduly
@@ -45,8 +43,8 @@ jsou zakázány. Více informací najdete v souboru `LICENSE`.
 
 ## 👤 Autor
 
-Vytvořil: **[Tvoje jméno / přezdívka]**  
-Kontakt: *(volitelné – např. GitHub Issues)*
+Vytvořil: **bohiiic**  
+Kontakt: bohy499@gmail.com
 
 ---
 
